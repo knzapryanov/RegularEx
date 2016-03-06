@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\5. RegularExpressions\RegularEx\Problem1SeriesOfLetters\bin\Debug\Problem1SeriesOfLetters.exe.config
